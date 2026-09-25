@@ -9,7 +9,7 @@ Add these files to `public/`:
 - `amr-abouzaid-resume.pdf` so Download Resume works
 - project screenshots, after removing confidential information
 
-The contact email and LinkedIn link are already set from the CV.
+The contact email and LinkedinIcon link are already set from the CV.
 
 ## 2. Run locally
 
